@@ -1,2 +1,2 @@
-# Johanan-Thiviyaraj
+# Johanan-Thiviyar
 An website about AI
